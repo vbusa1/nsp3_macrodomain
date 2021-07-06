@@ -1,4 +1,3 @@
-setwd("/Users/veronica/Documents/Leung/Macrodomain_nsp3/")
 library(dplyr)
 library(tidyr)
 
